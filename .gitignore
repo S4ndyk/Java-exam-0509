@@ -1,0 +1,6 @@
+target
+.classpath
+.project
+.settings
+.tmc_test_results.json
+__pycache__
