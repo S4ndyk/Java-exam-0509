@@ -12,7 +12,7 @@ import static org.junit.Assert.fail;
 import org.junit.Test;
 import org.junit.Rule;
 
-public class JatkokurssiExercise3VarastojenHallintaHiddenTest {
+public class JatkokurssiKonekoeTehtava3VarastojenHallintaHiddenTest {
 @Rule
     public MockStdio io = new MockStdio();
 
